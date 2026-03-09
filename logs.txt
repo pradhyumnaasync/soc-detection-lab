@@ -1,0 +1,4 @@
+2026-03-10 01:01:58.992431 | EVENT | powershell encoded command
+2026-03-10 01:02:53.934510 | EVENT | multiple failed login
+2026-03-10 01:06:28.388067 | EVENT | suspicious process execution
+2026-03-10 01:10:30.955386 | EVENT | multiple failed login
